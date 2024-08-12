@@ -14,5 +14,5 @@
   * Find the average rating of apps.
   * Find mean and median of rating.
   * Fill null values with mean for any one numeric column.
-  * Plot bar chart for the columns Category="Beauty" and Ratings
+  * Plot bar chart for the columns Category="Beauty" and Ratings.
 
